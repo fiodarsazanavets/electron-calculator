@@ -9,6 +9,6 @@
   "author": "Fiodar Sazanavets",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^2.0.5"
+    "electron": "^2.0.8"
   }
 }
